@@ -1,6 +1,6 @@
 # Laptop_Scraper
 A project that scrapes the prices of laptops using requests and beautifulsoup.
-![alt tag](scaping laptops.PNG)
+![alt tag](scaping_laptops.PNG)
 
 ## Installation
 
