@@ -1,11 +1,11 @@
 # Laptop_Scraper
 A project that scrapes the prices of laptops using requests and beautifulsoup.
-
+![alt tag](scaping laptops.PNG)
 
 ## Installation
 
 ```bash
-git clone ...
+git clone https://github.com/tobiolabode/Laptop_Scraper.git
 ```
 
 ## Usage
